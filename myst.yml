@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ea0ff733-de68-47de-8d19-4cfe4661ee42
+  title: Papers
+  description: 개인적으로 읽었고, 정리가 필요하다 판단한 논문들을 정리하는 곳입니다.
+  # keywords: []
+  authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
